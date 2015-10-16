@@ -15,7 +15,8 @@ A paper makes it on this list if one of us proposes the paper and none of
 the others disagrees.
 
 A paper may make it on the list if it is a milestone in the intellectual
-history of programming languages. 
+history of programming languages, if it is a good paper, and if its ideas
+are still good today. 
 
 A paper may make it on the list if it covers an area particularly well. 
 
