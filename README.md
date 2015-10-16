@@ -43,8 +43,13 @@ An axiomatic basis for computer programming.
 Communications of the ACM, 1969, 12(10), 576-–580.
 [url](http://dl.acm.org/citation.cfm?id=363259)
 
+P.J. Landin 
+The next 700 programming languages. 
+Communications of the ACM, 1966, 9(3), 157--166.
+[url](http://dl.acm.org/citation.cfm?id=365257)
+
 G.D. Plotkin.
-Call-by-name, call-by-value, and the lambda-calculus.
+Call-by-name, call-by-value, and the λ-calculus.
 Theoretical Computer Science 1 (1975), 125--159.
 [url](http://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf)
 
@@ -56,3 +61,4 @@ Theory and Practice of Software Development, 1985, 97--138.
 ----
 ## changelog
 * Fri Oct 16 09:48:17 EDT 2015 Matthias creates and populates the repository 
+* Fri Oct 16 12:47:38 EDT 2015  " added Will's suggestions 
