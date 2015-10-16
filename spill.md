@@ -9,6 +9,10 @@ A Programming Language.
 John Wiley & Son's. 1962.
 [url](http://www.jsoftware.com/papers/APL.htm)
 
+L. Lamport.
+Time, clocks, and the ordering of events in a distributed system.
+Communications of the ACM, 1978, 21(7), 558--565.
+
 J. McCarthy.
 Recursive functions of symbolic expressions and their computation by machine, part I.
 Communications of the ACM, 1960, 3(4), 184--195
