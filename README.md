@@ -29,7 +29,7 @@ The List of Papers
 
 L. Cardelli.
 Type systems. 
-CRC Handbook of Computer Science and Engineering, 1997, 2208-2236.
+Handbook of Computer Science and Engineering, 1997, 2208-2236.
 [url](http://lucacardelli.name/papers/typesystems.pdf)
 
 C. Chambers and D. Ungar.
