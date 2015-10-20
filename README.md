@@ -77,6 +77,8 @@ Theoretical Computer Science 1 (1975), 125--159.
 
 ----
 ## changelog
+* Tue Oct 20 19:23:57 EDT 2015  " added "modules", removed "Reynolds" based
+on discussion by Amal, Olin, and Matthias
 * Tue Oct 20 16:59:02 EDT 2015  " added Mitch's suggestions 
 * Fri Oct 16 12:47:38 EDT 2015  " added Will's suggestions 
 * Fri Oct 16 09:48:17 EDT 2015 Matthias creates and populates the
