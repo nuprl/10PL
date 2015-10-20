@@ -17,3 +17,8 @@ J. McCarthy.
 Recursive functions of symbolic expressions and their computation by machine, part I.
 Communications of the ACM, 1960, 3(4), 184--195
 [url](http://dl.acm.org/citation.cfm?id=367199)
+
+J.C. Reynolds.
+Three approaches to type structure.
+Theory and Practice of Software Development, 1985, 97--138.
+[url](http://link.springer.com/chapter/10.1007%2F3-540-15198-2_7)

@@ -65,15 +65,15 @@ Subgoal induction.
 Communications of the ACM, 1977, 20(4), 209--222.
 [url](http://dl.acm.org/citation.cfm?id=359466)
 
+D.L. Parnas
+On the criteria to be used in decomposing systems into modules.
+Communications of the ACM, 1972, 15(12), 1053--1058.
+[url](http://dl.acm.org/citation.cfm?id=361623)
+
 G.D. Plotkin.
 Call-by-name, call-by-value, and the λ-calculus.
 Theoretical Computer Science 1 (1975), 125--159.
 [url](http://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf)
-
-J.C. Reynolds.
-Three approaches to type structure.
-Theory and Practice of Software Development, 1985, 97--138.
-[url](http://link.springer.com/chapter/10.1007%2F3-540-15198-2_7)
 
 ----
 ## changelog
