@@ -92,8 +92,8 @@ The DaCapo benchmarks: Java benchmarking development and analysis.
 OOPSLA 2006, 169--190.
 [url](http://dl.acm.org/citation.cfm?id=1167488)
 
-Books on Programming Language You Should Know Before You Start
---------------------------------------------------------------
+Books You Should Know Before You Start
+--------------------------------------
 
 Krishnamurthi. 
 Programming Languages: Applications and Implementations. 
