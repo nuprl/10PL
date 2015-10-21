@@ -22,13 +22,22 @@ of the group's vocabulary. In addition, learning to distinguish good papers
 from "must read even though I dislike them" papers may help you develop
 your own taste. 
 
-Syntax Extensions and Macros 
-----------------------------
+**Note** A paper on this list may not be not essential to your dissertation
+research. It is unlikely to introduce you to modern ways of dealing with my
+topics of interest. It is unlikely to be fashionable. It is improbable that
+you will cite it in your dissertation. But, I consider the paper worth your
+while; reading it is good for your soul.
+
+Vision 
+------
 
 Felleisen, Findler, Flatt, Krishnamurthi, Barzilay, McCarthy, Tobin-Hochstadt. 
 The Racket Manifesto. 
 SNAPL 2015. 
 [url](http://www.ccs.neu.edu/home/matthias/manifesto/)
+
+Syntax Extensions and Macros 
+----------------------------
 
 Dybvig, Hieb, and Bruggeman. 
 Syntactic abstraction in Scheme. 
@@ -52,6 +61,11 @@ Fagan and Cartwright.
 Soft typing. 
 PLDI 1991, 278--292.
 [url](http://dl.acm.org/citation.cfm?id=113445.113469&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
+
+Flanagan. 
+Hybrid type checking. 
+POPL 2006, 245--256.
+[url](http://dl.acm.org/citation.cfm?id=1111059)
 
 Gray, Findler, Flatt.
 Fine-grained interoperability through mirrors and contracts.
