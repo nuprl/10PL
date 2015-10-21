@@ -22,6 +22,29 @@ of the group's vocabulary. In addition, learning to distinguish good papers
 from "must read even though I dislike them" papers may help you develop
 your own taste. 
 
+Syntax Extensions and Macros 
+----------------------------
+
+Felleisen, Findler, Flatt, Krishnamurthi, Barzilay, McCarthy, Tobin-Hochstadt. 
+The Racket Manifesto. 
+SNAPL 2015. 
+[url](http://www.ccs.neu.edu/home/matthias/manifesto/)
+
+Dybvig, Hieb, and Bruggeman. 
+Syntactic abstraction in Scheme. 
+Lisp and Symbolic Computation,1993. 5(4), 295-–326.
+[url](http://link.springer.com/article/10.1007%2FBF01806308#page-1)
+
+Flatt. 
+Composable and compilable macros:: you want it when?
+ICFP 2002, 72--83.
+[url](http://dl.acm.org/citation.cfm?id=581486)
+
+Flatt. 
+Binding as Sets of Scopes.
+POPL 2016, ??--??.
+[url](to appear)
+
 Gradual Typing [Language Design]
 --------------------------------
 
