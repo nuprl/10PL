@@ -95,11 +95,13 @@ OOPSLA 2006, 169--190.
 Books You Should Know Before You Start
 --------------------------------------
 
-Krishnamurthi. 
+One of:
+
+* Krishnamurthi. 
 Programming Languages: Applications and Implementations. 
 [url](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/)
-or
-Friedman and Wand. 
+
+* Friedman and Wand. 
 Essentials of Programming Languages. 
 [url](http://www.eopl3.com)
 
