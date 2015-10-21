@@ -1,3 +1,7 @@
+N. Adams, D. Kranz, Richard Kelsey, J. Rees, P. Hudak, J. Philbin.
+ORBIT: an optimizing compiler. 
+ACM Compiler Construction, 1986, 219--233.
+[url](http://dl.acm.org/citation.cfm?id=13333)
 
 J.W. Backus et al. P. Naur (ed). 
 The report on the algorithmic language Algol 60. 
@@ -8,6 +12,10 @@ K.E. Ivarson.
 A Programming Language. 
 John Wiley & Son's. 1962.
 [url](http://www.jsoftware.com/papers/APL.htm)
+
+Kam & Ullman Monotone data flow analysis frameworks
+Acta Informatica, 1977, 7, 305--317.
+[url](http://link.springer.com/article/10.1007/BF00290339#page-1)
 
 L. Lamport.
 Time, clocks, and the ordering of events in a distributed system.

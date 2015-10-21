@@ -45,6 +45,12 @@ a Dynamically-typed Object-oriented Programming Language.
 PLDI 1989, 146--160.
 [url](http://dl.acm.org/citation.cfm?id=74831)
 
+P. Cousot and R. Cousot.
+Abstract interpretation: a unified lattice model for static analysis of
+programs by construction or approximation of fixpoints. 
+Principles of Programming Languages, 1977, 238--252.
+[url](http://dl.acm.org/citation.cfm?id=512973)
+
 C.A.R. Hoare.
 An axiomatic basis for computer programming. 
 Communications of the ACM, 1969, 12(10), 576-–580.
@@ -54,6 +60,11 @@ C.A.R. Hoare.
 Proof of correctness of data representations.
 Acta Informatica, 1972, 1, 271--281.
 [url](http://link.springer.com/article/10.1007%2FBF00289507#page-1)
+
+G.A. Kildall
+A Unified approach to global program optimization.
+Principles of Programming Languages, 1973, 194--206.
+[url](http://dl.acm.org/citation.cfm?id=512945)
 
 P.J. Landin 
 The next 700 programming languages. 
@@ -77,8 +88,8 @@ Theoretical Computer Science 1 (1975), 125--159.
 
 ----
 ## changelog
-* Tue Oct 20 19:23:57 EDT 2015  " added "modules", removed "Reynolds" based
-on discussion by Amal, Olin, and Matthias
+* Tue Oct 20 21:13:13 EDT 2015 " added "modules", removed "Reynolds" based
+on discussion by Amal, Olin, and Matthias; added Olin's choices 
 * Tue Oct 20 16:59:02 EDT 2015  " added Mitch's suggestions 
 * Fri Oct 16 12:47:38 EDT 2015  " added Will's suggestions 
 * Fri Oct 16 09:48:17 EDT 2015 Matthias creates and populates the
