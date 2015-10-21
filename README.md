@@ -76,6 +76,11 @@ Subgoal induction.
 Communications of the ACM, 1977, 20(4), 209--222.
 [url](http://dl.acm.org/citation.cfm?id=359466)
 
+G. Morrisett, D. Walker, K. Crary, and N. Glew.
+From system F to typed assembly language.
+Transactions on Programming Languages and Systems, 1999, 21 (3), 527--568.
+[url](http://dl.acm.org/citation.cfm?id=319345)
+
 D.L. Parnas
 On the criteria to be used in decomposing systems into modules.
 Communications of the ACM, 1972, 15(12), 1053--1058.
@@ -88,6 +93,7 @@ Theoretical Computer Science 1 (1975), 125--159.
 
 ----
 ## changelog
+* Tue Oct 20 23:06:27 EDT 2015 " added Amal's "white ball"
 * Tue Oct 20 21:13:13 EDT 2015 " added "modules", removed "Reynolds" based
 on discussion by Amal, Olin, and Matthias; added Olin's choices 
 * Tue Oct 20 16:59:02 EDT 2015  " added Mitch's suggestions 
