@@ -24,6 +24,11 @@ your own taste.
 Gradual Typing [Language Design]
 --------------------------------
 
+Fagan and Cartwright. 
+Soft typing. 
+PLDI 1991, 278--292.
+[url](http://dl.acm.org/citation.cfm?id=113445.113469&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
+
 Gray, Findler, Flatt.
 Fine-grained interoperability through mirrors and contracts.
 OOPSLA 2005, 231--245. 
@@ -39,6 +44,14 @@ Gradual typing for functional languages.
 Scheme and Functional Programming, 2006, 81--92. 
 [url](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.8890)
 Note: read with [Tobin-Hochstadt/Felleisen, DLS, 2006](http://dl.acm.org/citation.cfm?id=1176755)
+
+Wright and Cartwright. 
+A practical soft type system for Scheme.
+Transactions on Programming Languages and Systems 1997, 19(1), 87--152.
+[url](http://dl.acm.org/citation.cfm?id=239912.239917&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
+
+
+
 
 Modules and Mixins [Language Design]
 ------------------------------------
