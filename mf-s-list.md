@@ -5,13 +5,14 @@ What and Why
 
 Over the course of your first few couple of years as PhD student, you must
 read some of the papers that shaped your advisor's mental image of the
-research landscape---in addition to the papers that your group. If you
-decide to work on one of projects your advisor proposes, these readings
-equip you with the proper background and help you shape your impressions of
-what is going on. If you decide to bring something new to your advisor's
-world, you still need to know how to approach him, how to communicate your
-ideas effectively. The key to effective communication is to know how your
-advisor thinks and why he thinks so. 
+research landscape---in addition to the papers that your group has
+published on the relevant topic (in the widest sense). If you decide to
+work on one of projects your advisor proposes, these readings equip you
+with the proper background and help you shape your impressions of what is
+going on. If you decide to bring something new to your advisor's world, you
+still need to know how to approach him, how to communicate your ideas
+effectively. The key to effective communication is to know how your advisor
+thinks and why he thinks so.
 
 I have classified the paper into those categories that are near and dear to
 my heart. I don't *love* these papers, some I loathe for their lack of
@@ -49,9 +50,6 @@ Wright and Cartwright.
 A practical soft type system for Scheme.
 Transactions on Programming Languages and Systems 1997, 19(1), 87--152.
 [url](http://dl.acm.org/citation.cfm?id=239912.239917&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
-
-
-
 
 Modules and Mixins [Language Design]
 ------------------------------------
@@ -93,6 +91,27 @@ Blackburn et al.
 The DaCapo benchmarks: Java benchmarking development and analysis.
 OOPSLA 2006, 169--190.
 [url](http://dl.acm.org/citation.cfm?id=1167488)
+
+Books on Programming Language You Should Know Before You Start
+--------------------------------------------------------------
+
+Krishnamurthi. 
+Programming Languages: Applications and Implementations. 
+[url](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/)
+or
+Friedman and Wand. 
+Essentials of Programming Languages. 
+[url](http://www.eopl3.com)
+
+Felleisen, Findler, Flatt. 
+Semantics Engineering [Parts I and II].
+MIT Press. 2011. 
+[url](http://redex.racket-lang.org)
+
+Pierce. 
+Types and Programming Languages. 
+MIT Press, 2002.
+[url](http://www.cis.upenn.edu/~bcpierce/tapl/index.html)
 
 ----
 ## changelog
