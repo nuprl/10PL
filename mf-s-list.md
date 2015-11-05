@@ -129,6 +129,14 @@ The DaCapo benchmarks: Java benchmarking development and analysis.
 OOPSLA 2006, 169--190.
 [url](http://dl.acm.org/citation.cfm?id=1167488)
 
+Semantics 
+---------
+
+Plotkin. 
+LCF considered a programming language. 
+Theoretical Computer Science, 1977, 5, 223--255.
+[url](http://homepages.inf.ed.ac.uk/gdp/publications/LCF.pdf)
+
 Books You Should Know Before You Start
 --------------------------------------
 
@@ -154,4 +162,5 @@ MIT Press, 2002.
 
 ----
 ## changelog
+* Thu Nov  5 10:02:15 EST 2015: added Plotkin, one paper on den sem/domains
 * Wed Oct 21 11:39:19 EDT 2015: created 
