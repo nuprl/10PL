@@ -20,7 +20,7 @@ precision, acknowledgment of historical debt, or sloppy writing.
 Nevertheless, they left an impression, so they have somehow become a part
 of the group's vocabulary. In addition, learning to distinguish good papers
 from "must read even though I dislike them" papers may help you develop
-your own taste. 
+your own taste.
 
 **Note** A paper on this list may not be not essential to your dissertation
 research. It is unlikely to introduce you to modern ways of dealing with my
@@ -28,139 +28,117 @@ topics of interest. It is unlikely to be fashionable. It is improbable that
 you will cite it in your dissertation. But, I consider the paper worth your
 while; reading it is good for your soul.
 
-Vision 
+Vision
 ------
 
-Felleisen, Findler, Flatt, Krishnamurthi, Barzilay, McCarthy, Tobin-Hochstadt. 
-The Racket Manifesto. 
-SNAPL 2015. 
-[url](http://www.ccs.neu.edu/home/matthias/manifesto/)
+Felleisen, Findler, Flatt, Krishnamurthi, Barzilay, McCarthy, Tobin-Hochstadt.
+[The Racket Manifesto.](http://www.ccs.neu.edu/home/matthias/manifesto/)
+SNAPL 2015.
 
-Syntax Extensions and Macros 
+Syntax Extensions and Macros
 ----------------------------
 
-Dybvig, Hieb, and Bruggeman. 
-Syntactic abstraction in Scheme. 
+Dybvig, Hieb, and Bruggeman.
+[Syntactic abstraction in Scheme.](http://link.springer.com/article/10.1007%2FBF01806308#page-1)
 Lisp and Symbolic Computation,1993. 5(4), 295-–326.
-[url](http://link.springer.com/article/10.1007%2FBF01806308#page-1)
 
-Flatt. 
-Composable and compilable macros:: you want it when?
+Flatt.
+[Composable and compilable macros:: you want it when?](http://dl.acm.org/citation.cfm?id=581486)
 ICFP 2002, 72--83.
-[url](http://dl.acm.org/citation.cfm?id=581486)
 
-Flatt. 
+Flatt.
 Binding as Sets of Scopes.
 POPL 2016, ??--??.
-[url](to appear)
 
 Gradual Typing [Language Design]
 --------------------------------
 
-Fagan and Cartwright. 
-Soft typing. 
+Fagan and Cartwright.
+[Soft typing.](http://dl.acm.org/citation.cfm?id=113445.113469&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 PLDI 1991, 278--292.
-[url](http://dl.acm.org/citation.cfm?id=113445.113469&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 
-Flanagan. 
-Hybrid type checking. 
+Flanagan.
+[Hybrid type checking.](http://dl.acm.org/citation.cfm?id=1111059)
 POPL 2006, 245--256.
-[url](http://dl.acm.org/citation.cfm?id=1111059)
 
 Gray, Findler, Flatt.
-Fine-grained interoperability through mirrors and contracts.
-OOPSLA 2005, 231--245. 
-[url](http://dl.acm.org/citation.cfm?id=1094830)
+[Fine-grained interoperability through mirrors and contracts.](http://dl.acm.org/citation.cfm?id=1094830)
+OOPSLA 2005, 231--245.
 
-Matthews and Findler. 
-Operational semantics for multi-language programs. 
+Matthews and Findler.
+[Operational semantics for multi-language programs.](http://dl.acm.org/citation.cfm?id=1498926.1498930&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 Transactions on Programming Languages and Systems 2009, 31(3), 1--44.
-[url](http://dl.acm.org/citation.cfm?id=1498926.1498930&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 
-Siek and Taha. 
-Gradual typing for functional languages. 
-Scheme and Functional Programming, 2006, 81--92. 
-[url](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.8890)
+Siek and Taha.
+[Gradual typing for functional languages.](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.8890)
+Scheme and Functional Programming, 2006, 81--92.
 Note: read with [Tobin-Hochstadt/Felleisen, DLS, 2006](http://dl.acm.org/citation.cfm?id=1176755)
 
-Wright and Cartwright. 
-A practical soft type system for Scheme.
+Wright and Cartwright.
+[A practical soft type system for Scheme.](http://dl.acm.org/citation.cfm?id=239912.239917&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 Transactions on Programming Languages and Systems 1997, 19(1), 87--152.
-[url](http://dl.acm.org/citation.cfm?id=239912.239917&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 
 Modules and Mixins [Language Design]
 ------------------------------------
 
 Bracha and Cook.
-Mixin-based inheritance.
-OOPSLA/ECCOP 1990, 303--311. 
-[url](http://dl.acm.org/citation.cfm?id=97982)
+[Mixin-based inheritance.](http://dl.acm.org/citation.cfm?id=97982)
+OOPSLA/ECCOP 1990, 303--311.
 
-Harper and Lillibridge. 
-A type-theoretic approach to higher-order modules with sharing. 
+Harper and Lillibridge.
+[A type-theoretic approach to higher-order modules with sharing.](http://dl.acm.org/citation.cfm?id=174675.176927&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 POPL 1994, 123--137.
-[url](http://dl.acm.org/citation.cfm?id=174675.176927&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 
-Leroy. 
-Manifest types, modules, and separate compilation. 
+Leroy.
+[Manifest types, modules, and separate compilation.](http://dl.acm.org/citation.cfm?id=174675.176926&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 POPL 1994, 109--122.
-[url](http://dl.acm.org/citation.cfm?id=174675.176926&coll=DL&dl=ACM&CFID=723280388&CFTOKEN=84457028)
 
-Performance Evaluation 
+Performance Evaluation
 ----------------------
 
 Georges, Buytaert, and Eeckhout.
-Statistically rigorous Java performance evaluation.
+[Statistically rigorous Java performance evaluation.](http://dl.acm.org/citation.cfm?id=1297033)
 OOPSLA 2007, 57--76.
-[url](http://dl.acm.org/citation.cfm?id=1297033)
 
 Mytkowicz, Diwan, Hauswirth, and Sweeney.
-Producing wrong data without doing anything obviously wrong!
+[Producing wrong data without doing anything obviously wrong!](http://dl.acm.org/citation.cfm?id=1508275)
 ASPLOS 2009, 265--276.
-[url](http://dl.acm.org/citation.cfm?id=1508275)
 
 Vitek and Kalibera.
-R3: Repeatability, Reproducibility and Rigor.
+[R3: Repeatability, Reproducibility and Rigor.](http://dl.acm.org/citation.cfm?id=2442781)
 SIGPLAN Noices 2012 47(4a), 30--36.
-[url](http://dl.acm.org/citation.cfm?id=2442781)
 
-Blackburn et al. 
-The DaCapo benchmarks: Java benchmarking development and analysis.
+Blackburn et al.
+[The DaCapo benchmarks: Java benchmarking development and analysis.](http://dl.acm.org/citation.cfm?id=1167488)
 OOPSLA 2006, 169--190.
-[url](http://dl.acm.org/citation.cfm?id=1167488)
 
-Semantics 
+Semantics
 ---------
 
-Plotkin. 
-LCF considered a programming language. 
+Plotkin.
+[LCF considered a programming language.](http://homepages.inf.ed.ac.uk/gdp/publications/LCF.pdf)
 Theoretical Computer Science, 1977, 5, 223--255.
-[url](http://homepages.inf.ed.ac.uk/gdp/publications/LCF.pdf)
 
 Books You Should Know Before You Start
 --------------------------------------
 
 One of:
 
-* Krishnamurthi. 
-Programming Languages: Applications and Implementations. 
-[url](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/)
+* Krishnamurthi.
+[Programming Languages: Applications and Implementations.](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/)
 
-* Friedman and Wand. 
-Essentials of Programming Languages. 
-[url](http://www.eopl3.com)
+* Friedman and Wand.
+[Essentials of Programming Languages.](http://www.eopl3.com)
 
-Felleisen, Findler, Flatt. 
-Semantics Engineering [Parts I and II].
-MIT Press. 2011. 
-[url](http://redex.racket-lang.org)
+Felleisen, Findler, Flatt.
+[Semantics Engineering [Parts I and II].](http://redex.racket-lang.org)
+MIT Press. 2011.
 
-Pierce. 
-Types and Programming Languages. 
+Pierce.
+[Types and Programming Languages. ](http://www.cis.upenn.edu/~bcpierce/tapl/index.html)
 MIT Press, 2002.
-[url](http://www.cis.upenn.edu/~bcpierce/tapl/index.html)
 
 ----
 ## changelog
 * Thu Nov  5 10:02:15 EST 2015: added Plotkin, one paper on den sem/domains
-* Wed Oct 21 11:39:19 EDT 2015: created 
+* Wed Oct 21 11:39:19 EDT 2015: created
