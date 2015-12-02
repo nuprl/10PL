@@ -20,6 +20,7 @@ Acta Informatica, 1977, 7, 305--317.
 L. Lamport.
 Time, clocks, and the ordering of events in a distributed system.
 Communications of the ACM, 1978, 21(7), 558--565.
+[url](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf)
 
 J. McCarthy.
 Recursive functions of symbolic expressions and their computation by machine, part I.
